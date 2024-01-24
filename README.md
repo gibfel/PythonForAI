@@ -1,1 +1,1 @@
-Filen "Assignment1Project1" är Hangman  och "Assignment1Project3" är sten-sax-påse. Båda spelen spelas genom att exekvera koden i valfri Python IDE och följa de instruktioner som anges.
+Filen "Assignment1Project1" är Hangman, "Assignment1Project2" är Memory och "Assignment1Project3" är sten-sax-påse. Alla spelen spelas genom att exekvera koden i valfri Python IDE och följa de instruktioner som anges i terminalen.
